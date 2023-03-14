@@ -224,34 +224,12 @@
     border-radius: 5px;
     margin: 2%;
 }
-.main-img img{
-    transition: transform 3s ease;
-}
-.main-img{
-    overflow: hidden;
-}
-.main-img:hover img{
-    transform: scale(1.2);
-} 
 
 .image img {
-
     width: 100%;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
-    transition: transform 2s ease;
 }
-.image{
-    overflow: hidden;
-}
-.image:hover img{
-    transform : scale(1.2);
-}
-/* .card:hover{
-    border: 2px solid blue;
-    transform: scale(1.2);
-    transition: transform 2s ease;
-} */
 
 .title {
     text-align: center;
@@ -276,6 +254,7 @@
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
 }
+
 
 /* responsive  tablet view*/
 
